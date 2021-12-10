@@ -5,4 +5,4 @@ http:
 
 client:
   url: "https://httpbin.org"
-  requestDelaySeconds: 3
+  requestDelaySeconds: 2
