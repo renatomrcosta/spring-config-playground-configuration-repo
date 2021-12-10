@@ -1,9 +1,6 @@
-spring:
-  application:
-    name: "config-playground"
-    
+   
 http:
-  defaultTimeout: 400
+  defaultTimeout: 4000
 
 
 client:
