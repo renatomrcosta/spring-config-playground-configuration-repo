@@ -1,6 +1,6 @@
    
 http:
-  defaultTimeout: 3000
+  defaultTimeout: 100
 
 
 client:
