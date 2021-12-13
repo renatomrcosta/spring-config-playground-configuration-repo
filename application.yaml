@@ -1,8 +1,8 @@
    
 http:
-  defaultTimeout: 100
+  defaultTimeout: 2000
 
 
 client:
   url: "https://httpbin.org"
-  requestDelaySeconds: 2
+  requestDelaySeconds: 1
